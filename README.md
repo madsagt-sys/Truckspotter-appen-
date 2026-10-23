@@ -31,3 +31,12 @@ Erstat `index.html` med en ny version og upload ændringerne til `main`. Ved st�
 ## Lokal test
 
 Åbn `index.html` direkte for en hurtig forhåndsvisning. Installation/offline kræver HTTPS (GitHub Pages) eller localhost.
+
+## Kamera
+Under **Nyt spot**: **TAG BILLEDE** åbner kameraet på understøttede telefoner, og **VÆLG FRA GALLERI** vælger et eksisterende foto. Adfærden afhænger af browseren.
+
+## Vognmand / firma
+Under Nyt spot vælges firma fra 50 danske transportvirksomheder eller 'Tast selv'. Listen er en blanding af de 20 øverste fra CVRLeads' omsætningsliste og 30 andre navne; den er ikke en verificeret rangliste over de 50 største. Kilde: https://cvrleads.dk/transport-virksomheder og https://www.danskindustri.dk/medlemsforeninger/647/medlemmer .
+
+## Dynamisk firmaliste (v7)
+BHC, Sejer og Sønnichsen og Brdr. Nørulf er tilføjet. Firmalisten sorteres efter antal registrerede spots, med alfabetisk sortering ved samme antal. Nye firmaer fra Tast selv gemmes lokalt og føjes automatisk til listen. Ingen cloud-synkronisering.
